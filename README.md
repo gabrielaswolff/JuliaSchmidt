@@ -1,2 +1,2 @@
 # JuliaSchmidt
-Website Psicóloga e Acompanhante terapêutica
+Website psicóloga e acompanhante terapêutica
